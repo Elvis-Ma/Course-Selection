@@ -4,4 +4,4 @@
 ### 但由於本案件事涉校內治理機密<br>
 ### 故無法公開，僅留下部分程式碼和封面，造成困擾，敬請見諒 !<br>
 ### 文件部分請參閱104履歷上之附件，謝謝
-<img src="./Course-Selection.png" alt="Course-Selection" width="75%" height="75%">
+<img src="./Course-Selection.png" alt="Course-Selection" width="60%" height="60%">
